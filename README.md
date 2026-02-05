@@ -46,7 +46,11 @@ MOVIE-RECOMMENDER-SYSTEM/
 ├── app.py                     # Main Streamlit Application
 └── README.md
 
-
+```
 
 #  The math behind.excalidraw File 
   See : https://excalidraw.com/#json=0XDqbThk7CxMm8ntFDcVE,uqBIBxfrGERgyYqhlj-VdQ
+  <img width="1802" height="701" alt="Screenshot 2026-02-05 141240" src="https://github.com/user-attachments/assets/1e7e16f6-606b-4fa6-ba77-8809c7170a2d" />
+  
+  <img width="1237" height="640" alt="Screenshot 2026-02-05 141310" src="https://github.com/user-attachments/assets/dcdf7304-2f16-428b-93c8-22d7656feb1c" />
+
